@@ -4,7 +4,7 @@ We’ll create a **step-by-step project guide with execution, screenshots/log ev
 
 ---
 
-# 📂 **Project: Linux DevOps Automation – Repo Ready**
+# 📂 **Project: Linux DevOps Automation **
 
 ---
 
