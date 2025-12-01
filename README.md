@@ -1,4 +1,4 @@
-Perfect! Let’s take your request and make it **fully detailed, practical, and ready for a Git repo**. I’ll structure it so you can **execute commands, capture evidence, and store everything in your repository**.
+
 
 We’ll create a **step-by-step project guide with execution, screenshots/log evidence, and folder structure**.
 
